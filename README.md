@@ -18,6 +18,4 @@ song's source from chillhop.com
 
 
 Live DEMO: 
-#� �M�p�3�-�M�e�d�i�a�-�P�l�a�y�e�r�
-�
-�
+https://festive-shannon-a79019.netlify.app/
